@@ -1,12 +1,8 @@
 {
-
     "status": "ok",
     "totalResults": 70,
-   
     "articles": [
-       
         {
-           
             "source": {
                 "id": "ars-technica",
                 "name": "Ars Technica"
@@ -19,9 +15,7 @@
             "publishedAt": "2019-05-09T20:25:00Z",
             "content": "Enlarge/ The Three Mile Island Nuclear Plant is seen in the early morning hours March 28, 2011, in Middletown, Penn.\r\n17 with 14 posters participating\r\nOn Wednesday, power company Exelon said that it would be closing the single reactor that it operates on Thr… [+3031 chars]"
         },
-       
         {
-           
             "source": {
                 "id": "cnbc",
                 "name": "CNBC"
@@ -34,9 +28,7 @@
             "publishedAt": "2019-05-09T20:18:53Z",
             "content": "Symantec stock fell as much as 15% Thursday after the security company said its president and CEO, Greg Clark, has stepped down. The company is looking for a replacement.\r\ndiv &gt; div.group &gt; p:first-child\"&gt;\r\nSymantec director Richard Hill, formerly CE… [+1807 chars]"
         },
-       
         {
-           
             "source": {
                 "id": "cnbc",
                 "name": "CNBC"
@@ -49,9 +41,7 @@
             "publishedAt": "2019-05-09T20:18:46Z",
             "content": "Don't look now, U.S. airfares just went up.\r\ndiv &gt; div.group &gt; p:first-child\"&gt;\r\nEarlier this week, one-way airfares for most U.S. routes went up $5, the first fare hike this year to affect a majority of domestic flights. The clincher came on Tuesday … [+1957 chars]"
         },
-       
         {
-           
             "source": {
                 "id": "usa-today",
                 "name": "USA Today"
@@ -64,9 +54,7 @@
             "publishedAt": "2019-05-09T20:17:00Z",
             "content": "A Change.org petition has seen an influx of signatures since Burger King started testing its plant-based Whopper.\r\n Time\r\nMcDonald's has added vegan burger to its lineup, but an oversees trip is required to taste it.\r\nThe Big Vegan TS is now available in its … [+2098 chars]"
         },
-       
         {
-           
             "source": {
                 "id": "cnbc",
                 "name": "CNBC"
@@ -79,9 +67,7 @@
             "publishedAt": "2019-05-09T19:50:32Z",
             "content": "Uber priced its IPO at $45 per share Thursday, at low end of its stated range, a source told CNBC. Uber has not yet officially announced the price of its offering.\r\ndiv &gt; div.group &gt; p:first-child\"&gt;\r\nAt the IPO price of $45 per share, Uber has an imp… [+2198 chars]"
         },
-       
         {
-           
             "source": {
                 "id": null,
                 "name": "Barrons.com"
@@ -94,9 +80,7 @@
             "publishedAt": "2019-05-09T19:44:00Z",
             "content": "This isnt first time GM (ticker: GM) sold (or plans to sell) a plant to a new electric-car company. Dont forget,\r\n Teslas\r\n (TSLA) Fremont, Calif., facility once upon a time churned out GM cars. The plant was sold for a bargain price just after the financial … [+2527 chars]"
         },
-       
         {
-           
             "source": {
                 "id": "the-verge",
                 "name": "The Verge"
@@ -109,9 +93,7 @@
             "publishedAt": "2019-05-09T19:41:38Z",
             "content": "Delta Air Lines will test offering free Wi-Fi on 55 domestic daily flights this month. The tests will start on May 13th and last for two weeks, and they will allow users to do just about everything except stream video free of charge. \r\nDelta calls the tests t… [+1993 chars]"
         },
-       
         {
-           
             "source": {
                 "id": null,
                 "name": "Foxbusiness.com"
@@ -124,9 +106,7 @@
             "publishedAt": "2019-05-09T19:07:40Z",
             "content": "Roku CEO Anthony Wood on the increasing competition in streaming.\r\nCord-cutting continues to accelerate as companies such as Disney and AT&amp;T prepare to launch streaming services. And Wall Street investors are betting that Roku will benefit from the trend.… [+1241 chars]"
         },
-       
         {
-           
             "source": {
                 "id": "business-insider",
                 "name": "Business Insider"
@@ -139,9 +119,7 @@
             "publishedAt": "2019-05-09T19:05:51Z",
             "content": "After Facebook cofounder Chris Hughes called for CEO Mark Zuckerberg to relinquish his stranglehold on the industry and for the company to be broken up, the tech giant has responded — and it doesn't agree. \r\n \"Facebook accepts that with success comes accounta… [+1744 chars]"
         },
-       
         {
-           
             "source": {
                 "id": null,
                 "name": "Seekingalpha.com"
@@ -154,9 +132,7 @@
             "publishedAt": "2019-05-09T19:00:00Z",
             "content": "There was another shoe, after all.\r\nA bit less than three months ago, I wrote an article titled Stamps.com: Amazingly, The Biggest Shoe Is Yet To Drop. The thesis described in that article was simple:\r\nStamps.com (STMP) had taken a very significant cut to its… [+5539 chars]"
         },
-       
         {
-           
             "source": {
                 "id": "cnn",
                 "name": "CNN"
@@ -169,9 +145,7 @@
             "publishedAt": "2019-05-09T18:44:00Z",
             "content": null
         },
-       
         {
-           
             "source": {
                 "id": "the-new-york-times",
                 "name": "The New York Times"
@@ -184,69 +158,7 @@
             "publishedAt": "2019-05-09T18:35:39Z",
             "content": "Officials at Blue Origin have said the Blue Moon, lander would do just that. Last year, Blue Origin received $13 million from NASA to work on technologies needed for a moon lander.\r\nA low-cost approach to landing on the moon is risky; SpaceIL, an Israeli nonp… [+920 chars]"
         },
-       
         {
-           
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Brian Flood",
-            "title": "Lachlan Murdoch speaks to FOX investors: ‘We have created a company extremely well-positioned for growth’ Fox News",
-            "description": "FOX is “returning to its roots” following a blockbuster deal with Disney, and now stands “at the apex” of the media industry, Executive Chairman and CEO Lachlan Murdoch said Thursday at the company’s first-ever investor day.",
-            "url": "https://www.foxnews.com/entertainment/lachlan-murdoch-suzanne-scott-fox-news",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/05/Lachlan-Murdoch-Susanne-Scott-FOX.jpg",
-            "publishedAt": "2019-05-09T18:04:37Z",
-            "content": "FOX is “returning to its roots” following a blockbuster deal with Disney, and now stands “at the apex” of the media industry, Executive Chairman and CEO Lachlan Murdoch said Thursday at the company’s first-ever investor day.\r\nFOX is now leaner and stronger, w… [+3845 chars]"
-        },
-       
-        {
-           
-            "source": {
-                "id": null,
-                "name": "Yahoo.com"
-            },
-            "author": null,
-            "title": "Why Intel Stock Slumped Today Yahoo Finance",
-            "description": "After cutting its full-year guidance, the company disappointed again with a weak three-year outlook.",
-            "url": "https://finance.yahoo.com/news/why-intel-stock-slumped-today-171400936.html",
-            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/pSetWP4aEs9ksKyh8OAV_Q--~B/aD0xMzMzO3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/homerun/motleyfool.com/69d56f74ec283f9cf288a5268f3506d5",
-            "publishedAt": "2019-05-09T17:14:00Z",
-            "content": "What happened\r\nShares of Intel(NASDAQ: INTC) dropped on Thursday after the company provided a disappointing three-year outlook at an investor event. The company expects sluggish revenue and earnings growth, and it sees gross margin declining through 2021. The… [+1995 chars]"
-        },
-       
-        {
-           
-            "source": {
-                "id": "the-new-york-times",
-                "name": "The New York Times"
-            },
-            "author": null,
-            "title": "Many Hospitals Charge Double or Even Triple What Medicare Would Pay The New York Times",
-            "description": "A study of 25 states provides a rare glimpse of the stark disparities between what private insurers and the federal government paid for inpatient and outpatient care.",
-            "url": "https://www.nytimes.com/2019/05/09/health/hospitals-prices-medicare.html",
-            "urlToImage": "https://static01.nyt.com/images/2019/05/09/science/09HOSPITALS/09HOSPITALS-facebookJumbo.jpg",
-            "publishedAt": "2019-05-09T17:02:48Z",
-            "content": "In contrast to private insurers, Medicare has been much more zealous about keeping its payments down, said Sherry Glied, dean of the Robert F. Wagner Graduate School of Public Service at New York University.\r\nHospitals argue that they lose money under Medicar… [+1395 chars]"
-        },
-       
-        {
-           
-            "source": {
-                "id": null,
-                "name": "Aol.com"
-            },
-            "author": "Emily Rella",
-            "title": "AOC, Bernie Sanders introduce plan to cap credit card rates AOL",
-            "description": "Democrats Bernie Sanders and Alexandria Ocasio-Cortez introduced on Thursday a plan to rein in the profit banks can collect from consumers.",
-            "url": "https://www.aol.com/article/finance/2019/05/09/aoc-bernie-sanders-introduce-plan-to-cap-credit-card-rates-blast-loan-sharking/23723761/",
-            "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1028x675/format/jpg/quality/85/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-04%2F7e9b20b0-680d-11e9-bf8e-ce3e2fa8407d",
-            "publishedAt": "2019-05-09T16:56:58Z",
-            "content": "Democrats Bernie Sanders and Alexandria Ocasio-Cortez introduced on Thursday a plan to rein in the profit banks can collect from consumers, proposing to cap credit card interest rates at 15%.\r\nDespite the fact that banks can borrow money today at less than 2.… [+3600 chars]"
-        },
-       
-        {
-           
             "source": {
                 "id": null,
                 "name": "Ksl.com"
@@ -259,9 +171,7 @@
             "publishedAt": "2019-05-09T16:43:51Z",
             "content": "NEW YORK (CNN) McDonald's is bringing some international menu items to the United States.\r\nThe chain will start selling the Stroopwafel McFlurry, the Grand McExtreme Bacon Burger, the Tomato Mozzarella Chicken Sandwich and Cheesy Bacon Fries at participating … [+2760 chars]"
         },
-       
         {
-           
             "source": {
                 "id": "cnn",
                 "name": "CNN"
@@ -273,8 +183,8 @@
             "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190509095305-harrys-razors-file-super-tease.jpg",
             "publishedAt": "2019-05-09T16:03:00Z",
             "content": null
-        },       
-        {  
+        },
+        {
             "source": {
                 "id": null,
                 "name": "Yahoo.com"
@@ -287,9 +197,7 @@
             "publishedAt": "2019-05-09T15:54:00Z",
             "content": "What happened\r\nShares of programmatic ad platform The Trade Desk(NASDAQ: TTD) took a hit on Thursday. As of 11:30 a.m. EDT, the stock was down more than 18%.\r\nThe stock's decline follows The Trade Desk's first-quarter results. Though the quarter's top- and bo… [+1682 chars]"
         },
-       
         {
-           
             "source": {
                 "id": null,
                 "name": "Droid-life.com"
@@ -303,5 +211,4 @@
             "content": "According to Nike, 60% of people are wearing the wrong size shoe. I’m not sure how that’s possible, but that’s the stat. To help fight this, Nike introduced Nike Fit this week, a feature for its official Nike app that uses augmented reality to measure your fe… [+818 chars]"
         }
     ]
-
 }

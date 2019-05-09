@@ -43,32 +43,6 @@
         },
         {
             "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Kelly Tyko",
-            "title": "McDonald's released a new meatless, vegan burger, but you'll need a passport to try it USA TODAY",
-            "description": "McDonald's has a new plant-based burger the Big Vegan TS in Germany. The global fast-food giant has not announced plans for a vegan burger in the U.S.",
-            "url": "https://www.usatoday.com/story/money/food/2019/05/09/mcdonalds-big-vegan-ts-now-available-germany-locations/1154999001/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2019/05/09/USAT/d78ee081-e318-4f7d-9b99-d1941b2701c0-McDonalds_BigVeganTS_Vorschaubild3.jpg?crop=307,173,x0,y13&width=3200&height=1680&fit=bounds",
-            "publishedAt": "2019-05-09T20:17:00Z",
-            "content": "A Change.org petition has seen an influx of signatures since Burger King started testing its plant-based Whopper.\r\n Time\r\nMcDonald's has added vegan burger to its lineup, but an oversees trip is required to taste it.\r\nThe Big Vegan TS is now available in its … [+2098 chars]"
-        },
-        {
-            "source": {
-                "id": "cnbc",
-                "name": "CNBC"
-            },
-            "author": "Leslie Picker",
-            "title": "Uber IPO is likely to price around $44 or $45 per share: Sources CNBC",
-            "description": "Uber is preparing for its public debut on the New York Stock Exchange on Friday.",
-            "url": "https://www.cnbc.com/2019/05/09/uber-ipo-pricing.html",
-            "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2019/01/23/105694866-1548253615440preview-1.1910x1000.jpg",
-            "publishedAt": "2019-05-09T19:50:32Z",
-            "content": "Uber priced its IPO at $45 per share Thursday, at low end of its stated range, a source told CNBC. Uber has not yet officially announced the price of its offering.\r\ndiv &gt; div.group &gt; p:first-child\"&gt;\r\nAt the IPO price of $45 per share, Uber has an imp… [+2198 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Barrons.com"
             },
@@ -183,32 +157,6 @@
             "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190509095305-harrys-razors-file-super-tease.jpg",
             "publishedAt": "2019-05-09T16:03:00Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo.com"
-            },
-            "author": null,
-            "title": "Why The Trade Desk Stock Was Slammed Thursday Yahoo Finance",
-            "description": "Better-than-expected top- and bottom-line first-quarter results weren't enough to impress Wall Street.",
-            "url": "https://finance.yahoo.com/news/why-trade-desk-stock-slammed-155400034.html",
-            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/poRF8CB4spmTD0u.kd_uqQ--~B/aD0xMzkzO3c9MjE1MztzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/homerun/motleyfool.com/ad598631f9145801c4b81e0f4c6a5fb5",
-            "publishedAt": "2019-05-09T15:54:00Z",
-            "content": "What happened\r\nShares of programmatic ad platform The Trade Desk(NASDAQ: TTD) took a hit on Thursday. As of 11:30 a.m. EDT, the stock was down more than 18%.\r\nThe stock's decline follows The Trade Desk's first-quarter results. Though the quarter's top- and bo… [+1682 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Droid-life.com"
-            },
-            "author": "Tim",
-            "title": "Nike Fit Feature Measures Your Feet Using Augmented Reality Droid Life",
-            "description": "According to Nike, 60% of people are wearing the wrong size shoe. I'm not sure how that's possible, but that's the stat. To help fight this, Nike introduced Nike Fit this week, a feature for its official Nike app that uses augmented reality to measure your fe…",
-            "url": "https://www.droid-life.com/2019/05/09/nike-fit-feature-measures-your-feet-using-augmented-reality/",
-            "urlToImage": "https://www.droid-life.com/wp-content/uploads/2019/05/Nike-Fit-600x315.jpg",
-            "publishedAt": "2019-05-09T15:52:00Z",
-            "content": "According to Nike, 60% of people are wearing the wrong size shoe. I’m not sure how that’s possible, but that’s the stat. To help fight this, Nike introduced Nike Fit this week, a feature for its official Nike app that uses augmented reality to measure your fe… [+818 chars]"
         }
     ]
 }

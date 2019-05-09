@@ -1,14 +1,309 @@
 {
-  "posts": [
-    { "id": 1, "title": "This is cool" },
-    { "id": 2, "title": "I like it" },
-    { "id": 3, "title": "Neat" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+
+    "status": "ok",
+    "totalResults": 70,
+    -
+    "articles": [
+        -
+        {
+            -
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Megan Geuss",
+            "title": "The last reactor at Three Mile Island is shutting down - Ars Technica",
+            "description": "Plant owner Exelon said the reactor would shut down by September 30.",
+            "url": "https://arstechnica.com/tech-policy/2019/05/the-last-reactor-at-three-mile-island-is-shutting-down/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/05/GettyImages-110956234-760x380.jpg",
+            "publishedAt": "2019-05-09T20:25:00Z",
+            "content": "Enlarge/ The Three Mile Island Nuclear Plant is seen in the early morning hours March 28, 2011, in Middletown, Penn.\r\n17 with 14 posters participating\r\nOn Wednesday, power company Exelon said that it would be closing the single reactor that it operates on Thr… [+3031 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Jordan Novet",
+            "title": "Symantec CEO Greg Clark steps down, stock drops - CNBC",
+            "description": "Shares of security company Symantec fell Thursday after the company said its CEO, Greg Clark, has stepped down. The company is looking for a replacement.",
+            "url": "https://www.cnbc.com/2019/05/09/symantec-ceo-greg-clark-steps-down-stock-drops-.html",
+            "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/05/10/105200592-greg-clarrk.1910x1000.jpg",
+            "publishedAt": "2019-05-09T20:18:53Z",
+            "content": "Symantec stock fell as much as 15% Thursday after the security company said its president and CEO, Greg Clark, has stepped down. The company is looking for a replacement.\r\ndiv &gt; div.group &gt; p:first-child\"&gt;\r\nSymantec director Richard Hill, formerly CE… [+1807 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Phil LeBeau",
+            "title": "Airfares climb ahead of busy summer travel season - CNBC",
+            "description": "Earlier this week, one-way airfares for most U.S. routes went up $5, the first fare hike this year to impact a majority of domestic flights.",
+            "url": "https://www.cnbc.com/2019/05/09/airfares-climb-ahead-of-busy-summer-travel-season.html",
+            "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2019/02/20/105749727-1550665072303gettyimages-910279232.1910x1000.jpeg",
+            "publishedAt": "2019-05-09T20:18:46Z",
+            "content": "Don't look now, U.S. airfares just went up.\r\ndiv &gt; div.group &gt; p:first-child\"&gt;\r\nEarlier this week, one-way airfares for most U.S. routes went up $5, the first fare hike this year to affect a majority of domestic flights. The clincher came on Tuesday … [+1957 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Kelly Tyko",
+            "title": "McDonald's released a new meatless, vegan burger, but you'll need a passport to try it - USA TODAY",
+            "description": "McDonald's has a new plant-based burger the Big Vegan TS in Germany. The global fast-food giant has not announced plans for a vegan burger in the U.S.",
+            "url": "https://www.usatoday.com/story/money/food/2019/05/09/mcdonalds-big-vegan-ts-now-available-germany-locations/1154999001/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2019/05/09/USAT/d78ee081-e318-4f7d-9b99-d1941b2701c0-McDonalds_BigVeganTS_Vorschaubild3.jpg?crop=307,173,x0,y13&width=3200&height=1680&fit=bounds",
+            "publishedAt": "2019-05-09T20:17:00Z",
+            "content": "A Change.org petition has seen an influx of signatures since Burger King started testing its plant-based Whopper.\r\n Time\r\nMcDonald's has added vegan burger to its lineup, but an oversees trip is required to taste it.\r\nThe Big Vegan TS is now available in its … [+2098 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Leslie Picker",
+            "title": "Uber IPO is likely to price around $44 or $45 per share: Sources - CNBC",
+            "description": "Uber is preparing for its public debut on the New York Stock Exchange on Friday.",
+            "url": "https://www.cnbc.com/2019/05/09/uber-ipo-pricing.html",
+            "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2019/01/23/105694866-1548253615440preview-1.1910x1000.jpg",
+            "publishedAt": "2019-05-09T19:50:32Z",
+            "content": "Uber priced its IPO at $45 per share Thursday, at low end of its stated range, a source told CNBC. Uber has not yet officially announced the price of its offering.\r\ndiv &gt; div.group &gt; p:first-child\"&gt;\r\nAt the IPO price of $45 per share, Uber has an imp… [+2198 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": null,
+                "name": "Barrons.com"
+            },
+            "author": "Al Root",
+            "title": "When GM Sold a Plant to an Electric-Vehicle Startup...Named Tesla - Barron's",
+            "description": "Workhorse is buying an idled car plant from General Motors. This isn’t the first time GM has sold a plant cheap to an upstart maker of electric vehicles.",
+            "url": "https://www.barrons.com/articles/workhorse-gm-plant-tesla-51557430995",
+            "urlToImage": "https://images.barrons.com/im-73232/social",
+            "publishedAt": "2019-05-09T19:44:00Z",
+            "content": "This isnt first time GM (ticker: GM) sold (or plans to sell) a plant to a new electric-car company. Dont forget,\r\n Teslas\r\n (TSLA) Fremont, Calif., facility once upon a time churned out GM cars. The plant was sold for a bargain price just after the financial … [+2527 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean O'Kane",
+            "title": "Delta will test free in-flight Wi-Fi this month - The Verge",
+            "description": "The first of “several phases” of testing will start on May 13th and last for two weeks. Customers on the test flights will be notified by email or on Delta’s mobile app.",
+            "url": "https://www.theverge.com/2019/5/9/18563271/delta-free-in-flight-wi-fi-test-may-2019",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/W2yQ4Df7OAOm7FWJVoEE2SzpBdg=/0x140:3600x2025/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/16233508/997234642.jpg.jpg",
+            "publishedAt": "2019-05-09T19:41:38Z",
+            "content": "Delta Air Lines will test offering free Wi-Fi on 55 domestic daily flights this month. The tests will start on May 13th and last for two weeks, and they will allow users to do just about everything except stream video free of charge. \r\nDelta calls the tests t… [+1993 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": null,
+                "name": "Foxbusiness.com"
+            },
+            "author": "FOXBusiness",
+            "title": "Roku CEO: Shift to streaming is accelerating - Fox Business",
+            "description": "Roku CEO Anthony Wood addresses the increasing competition in streaming.",
+            "url": "https://www.foxbusiness.com/business-leaders/roku-ceo-shift-streaming-accelerating",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2018/02/0/0/roku-logo.jpg?ve=1&tl=1",
+            "publishedAt": "2019-05-09T19:07:40Z",
+            "content": "Roku CEO Anthony Wood on the increasing competition in streaming.\r\nCord-cutting continues to accelerate as companies such as Disney and AT&amp;T prepare to launch streaming services. And Wall Street investors are betting that Roku will benefit from the trend.… [+1241 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Nick Bastone",
+            "title": "Facebook exec Nick Clegg responds to Chris Hughes call for breaking up the company - Business Insider",
+            "description": "Facebook is beginning to mount its public defense to the notion of breaking the company up after its cofounder urged regulators to take action.",
+            "url": "https://www.businessinsider.com/facebook-says-break-up-not-the-answer-2019-5",
+            "urlToImage": "https://amp.businessinsider.com/images/5b59d2163beb6e19008b469c-2732-1366.jpg",
+            "publishedAt": "2019-05-09T19:05:51Z",
+            "content": "After Facebook cofounder Chris Hughes called for CEO Mark Zuckerberg to relinquish his stranglehold on the industry and for the company to be broken up, the tech giant has responded — and it doesn't agree. \r\n \"Facebook accepts that with success comes accounta… [+1744 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": null,
+                "name": "Seekingalpha.com"
+            },
+            "author": "Paulo Santos",
+            "title": "Stamps.com: The Other Shoe Drops - Stamps.com Inc. (NASDAQ:STMP) - Seeking Alpha",
+            "description": "A while ago, when Stamps.com was down hard, I said that there was yet another shoe to drop. That shoe has now dropped. Most of the worst is over, but unfortunat",
+            "url": "https://seekingalpha.com/article/4262110-stamps-com-shoe-drops",
+            "urlToImage": "https://static.seekingalpha.com/uploads/2019/2/22/saupload_shoe-with-wheels-0.jpg",
+            "publishedAt": "2019-05-09T19:00:00Z",
+            "content": "There was another shoe, after all.\r\nA bit less than three months ago, I wrote an article titled Stamps.com: Amazingly, The Biggest Shoe Is Yet To Drop. The thesis described in that article was simple:\r\nStamps.com (STMP) had taken a very significant cut to its… [+5539 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ahiza Garcia, CNN Business",
+            "title": "US senators want Amazon's Alexa device for kids investigated by the FTC - CNN",
+            "description": "Amazon's Echo device for kids is again facing scrutiny from Washington over how it handles children's private information.",
+            "url": "https://www.cnn.com/2019/05/09/tech/amazon-echo-kids-ftc/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190509124605-amazon-echo-dot-kids-super-tease.jpg",
+            "publishedAt": "2019-05-09T18:44:00Z",
+            "content": null
+        },
+        -
+        {
+            -
+            "source": {
+                "id": "the-new-york-times",
+                "name": "The New York Times"
+            },
+            "author": null,
+            "title": "Jeff Bezos’ Shot at the Moon? Blue Origin to Announce Vision for Space - The New York Times",
+            "description": "In a choreographed presentation, the Amazon founder said he wants to build the infrastructure for humans to live in space.",
+            "url": "https://www.nytimes.com/2019/05/09/science/jeff-bezos-moon.html",
+            "urlToImage": "https://static01.nyt.com/images/2019/05/09/science/09BLUEORIGIN3/09BLUEORIGIN3-facebookJumbo.jpg",
+            "publishedAt": "2019-05-09T18:35:39Z",
+            "content": "Officials at Blue Origin have said the Blue Moon, lander would do just that. Last year, Blue Origin received $13 million from NASA to work on technologies needed for a moon lander.\r\nA low-cost approach to landing on the moon is risky; SpaceIL, an Israeli nonp… [+920 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Brian Flood",
+            "title": "Lachlan Murdoch speaks to FOX investors: ‘We have created a company extremely well-positioned for growth’ - Fox News",
+            "description": "FOX is “returning to its roots” following a blockbuster deal with Disney, and now stands “at the apex” of the media industry, Executive Chairman and CEO Lachlan Murdoch said Thursday at the company’s first-ever investor day.",
+            "url": "https://www.foxnews.com/entertainment/lachlan-murdoch-suzanne-scott-fox-news",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/05/Lachlan-Murdoch-Susanne-Scott-FOX.jpg",
+            "publishedAt": "2019-05-09T18:04:37Z",
+            "content": "FOX is “returning to its roots” following a blockbuster deal with Disney, and now stands “at the apex” of the media industry, Executive Chairman and CEO Lachlan Murdoch said Thursday at the company’s first-ever investor day.\r\nFOX is now leaner and stronger, w… [+3845 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": null,
+                "name": "Yahoo.com"
+            },
+            "author": null,
+            "title": "Why Intel Stock Slumped Today - Yahoo Finance",
+            "description": "After cutting its full-year guidance, the company disappointed again with a weak three-year outlook.",
+            "url": "https://finance.yahoo.com/news/why-intel-stock-slumped-today-171400936.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/pSetWP4aEs9ksKyh8OAV_Q--~B/aD0xMzMzO3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/homerun/motleyfool.com/69d56f74ec283f9cf288a5268f3506d5",
+            "publishedAt": "2019-05-09T17:14:00Z",
+            "content": "What happened\r\nShares of Intel(NASDAQ: INTC) dropped on Thursday after the company provided a disappointing three-year outlook at an investor event. The company expects sluggish revenue and earnings growth, and it sees gross margin declining through 2021. The… [+1995 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": "the-new-york-times",
+                "name": "The New York Times"
+            },
+            "author": null,
+            "title": "Many Hospitals Charge Double or Even Triple What Medicare Would Pay - The New York Times",
+            "description": "A study of 25 states provides a rare glimpse of the stark disparities between what private insurers and the federal government paid for inpatient and outpatient care.",
+            "url": "https://www.nytimes.com/2019/05/09/health/hospitals-prices-medicare.html",
+            "urlToImage": "https://static01.nyt.com/images/2019/05/09/science/09HOSPITALS/09HOSPITALS-facebookJumbo.jpg",
+            "publishedAt": "2019-05-09T17:02:48Z",
+            "content": "In contrast to private insurers, Medicare has been much more zealous about keeping its payments down, said Sherry Glied, dean of the Robert F. Wagner Graduate School of Public Service at New York University.\r\nHospitals argue that they lose money under Medicar… [+1395 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": null,
+                "name": "Aol.com"
+            },
+            "author": "Emily Rella",
+            "title": "AOC, Bernie Sanders introduce plan to cap credit card rates - AOL",
+            "description": "Democrats Bernie Sanders and Alexandria Ocasio-Cortez introduced on Thursday a plan to rein in the profit banks can collect from consumers.",
+            "url": "https://www.aol.com/article/finance/2019/05/09/aoc-bernie-sanders-introduce-plan-to-cap-credit-card-rates-blast-loan-sharking/23723761/",
+            "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1028x675/format/jpg/quality/85/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-04%2F7e9b20b0-680d-11e9-bf8e-ce3e2fa8407d",
+            "publishedAt": "2019-05-09T16:56:58Z",
+            "content": "Democrats Bernie Sanders and Alexandria Ocasio-Cortez introduced on Thursday a plan to rein in the profit banks can collect from consumers, proposing to cap credit card interest rates at 15%.\r\nDespite the fact that banks can borrow money today at less than 2.… [+3600 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": null,
+                "name": "Ksl.com"
+            },
+            "author": "https://www.facebook.com/kslcom/",
+            "title": "McDonald's is bringing hits from its global menu to the United States - KSL.com",
+            "description": "McDonald's is bringing some international menu items to the United States, including the Stroopwafel McFlurry and Cheesy Bacon Fries.",
+            "url": "https://www.ksl.com/article/46548440/mcdonalds-is-bringing-hits-from-its-global-menu-to-the-united-states",
+            "urlToImage": "https://img.ksl.com/slc/2728/272801/27280120.JPG?filter=ksl/responsive_story_lg",
+            "publishedAt": "2019-05-09T16:43:51Z",
+            "content": "NEW YORK (CNN) McDonald's is bringing some international menu items to the United States.\r\nThe chain will start selling the Stroopwafel McFlurry, the Grand McExtreme Bacon Burger, the Tomato Mozzarella Chicken Sandwich and Cheesy Bacon Fries at participating … [+2760 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Chris Isidore, CNN Business",
+            "title": "Owner of Schick buys Harry's razors in $1.4 billion deal - CNN",
+            "description": "The owner of Schick razors needs to close the gap with Gillette, its biggest rival. So it's turning to new blood to make that happen.",
+            "url": "https://www.cnn.com/2019/05/09/business/schick-owner-buys-harrys/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190509095305-harrys-razors-file-super-tease.jpg",
+            "publishedAt": "2019-05-09T16:03:00Z",
+            "content": null
+        },
+        -
+        {
+            -
+            "source": {
+                "id": null,
+                "name": "Yahoo.com"
+            },
+            "author": null,
+            "title": "Why The Trade Desk Stock Was Slammed Thursday - Yahoo Finance",
+            "description": "Better-than-expected top- and bottom-line first-quarter results weren't enough to impress Wall Street.",
+            "url": "https://finance.yahoo.com/news/why-trade-desk-stock-slammed-155400034.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/poRF8CB4spmTD0u.kd_uqQ--~B/aD0xMzkzO3c9MjE1MztzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/homerun/motleyfool.com/ad598631f9145801c4b81e0f4c6a5fb5",
+            "publishedAt": "2019-05-09T15:54:00Z",
+            "content": "What happened\r\nShares of programmatic ad platform The Trade Desk(NASDAQ: TTD) took a hit on Thursday. As of 11:30 a.m. EDT, the stock was down more than 18%.\r\nThe stock's decline follows The Trade Desk's first-quarter results. Though the quarter's top- and bo… [+1682 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": null,
+                "name": "Droid-life.com"
+            },
+            "author": "Tim",
+            "title": "Nike Fit Feature Measures Your Feet Using Augmented Reality - Droid Life",
+            "description": "According to Nike, 60% of people are wearing the wrong size shoe. I'm not sure how that's possible, but that's the stat. To help fight this, Nike introduced Nike Fit this week, a feature for its official Nike app that uses augmented reality to measure your fe…",
+            "url": "https://www.droid-life.com/2019/05/09/nike-fit-feature-measures-your-feet-using-augmented-reality/",
+            "urlToImage": "https://www.droid-life.com/wp-content/uploads/2019/05/Nike-Fit-600x315.jpg",
+            "publishedAt": "2019-05-09T15:52:00Z",
+            "content": "According to Nike, 60% of people are wearing the wrong size shoe. I’m not sure how that’s possible, but that’s the stat. To help fight this, Nike introduced Nike Fit this week, a feature for its official Nike app that uses augmented reality to measure your fe… [+818 chars]"
+        }
+    ]
+
 }

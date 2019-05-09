@@ -1,84 +1,14 @@
 {
-    "status": "ok",
-    "totalResults": 70,
-    "articles": [
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Megan Geuss",
-            "title": "The last reactor at Three Mile Island is shutting down Ars Technica",
-            "description": "Plant owner Exelon said the reactor would shut down by September 30.",
-            "url": "https://arstechnica.com/tech-policy/2019/05/the-last-reactor-at-three-mile-island-is-shutting-down/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/05/GettyImages-110956234-760x380.jpg",
-            "publishedAt": "2019-05-09T20:25:00Z",
-            "content": "Enlarge/ The Three Mile Island Nuclear Plant is seen in the early morning hours March 28, 2011, in Middletown, Penn.\r\n17 with 14 posters participating\r\nOn Wednesday, power company Exelon said that it would be closing the single reactor that it operates on Thr… [+3031 chars]"
-        },
-        {
-            "source": {
-                "id": "cnbc",
-                "name": "CNBC"
-            },
-            "author": "Jordan Novet",
-            "title": "Symantec CEO Greg Clark steps down, stock drops CNBC",
-            "description": "Shares of security company Symantec fell Thursday after the company said its CEO, Greg Clark, has stepped down. The company is looking for a replacement.",
-            "url": "https://www.cnbc.com/2019/05/09/symantec-ceo-greg-clark-steps-down-stock-drops-.html",
-            "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/05/10/105200592-greg-clarrk.1910x1000.jpg",
-            "publishedAt": "2019-05-09T20:18:53Z",
-            "content": "Symantec stock fell as much as 15% Thursday after the security company said its president and CEO, Greg Clark, has stepped down. The company is looking for a replacement.\r\ndiv &gt; div.group &gt; p:first-child\"&gt;\r\nSymantec director Richard Hill, formerly CE… [+1807 chars]"
-        },
-        {
-            "source": {
-                "id": "cnbc",
-                "name": "CNBC"
-            },
-            "author": "Phil LeBeau",
-            "title": "Airfares climb ahead of busy summer travel season CNBC",
-            "description": "Earlier this week, one-way airfares for most U.S. routes went up $5, the first fare hike this year to impact a majority of domestic flights.",
-            "url": "https://www.cnbc.com/2019/05/09/airfares-climb-ahead-of-busy-summer-travel-season.html",
-            "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2019/02/20/105749727-1550665072303gettyimages-910279232.1910x1000.jpeg",
-            "publishedAt": "2019-05-09T20:18:46Z",
-            "content": "Don't look now, U.S. airfares just went up.\r\ndiv &gt; div.group &gt; p:first-child\"&gt;\r\nEarlier this week, one-way airfares for most U.S. routes went up $5, the first fare hike this year to affect a majority of domestic flights. The clincher came on Tuesday … [+1957 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Barrons.com"
-            },
-            "author": "Al Root",
-            "title": "When GM Sold a Plant to an Electric-Vehicle Startup...Named Tesla Barron's",
-            "description": "Workhorse is buying an idled car plant from General Motors. This isn’t the first time GM has sold a plant cheap to an upstart maker of electric vehicles.",
-            "url": "https://www.barrons.com/articles/workhorse-gm-plant-tesla-51557430995",
-            "urlToImage": "https://images.barrons.com/im-73232/social",
-            "publishedAt": "2019-05-09T19:44:00Z",
-            "content": "This isnt first time GM (ticker: GM) sold (or plans to sell) a plant to a new electric-car company. Dont forget,\r\n Teslas\r\n (TSLA) Fremont, Calif., facility once upon a time churned out GM cars. The plant was sold for a bargain price just after the financial … [+2527 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean O'Kane",
-            "title": "Delta will test free in-flight Wi-Fi this month The Verge",
-            "description": "The first of “several phases” of testing will start on May 13th and last for two weeks. Customers on the test flights will be notified by email or on Delta’s mobile app.",
-            "url": "https://www.theverge.com/2019/5/9/18563271/delta-free-in-flight-wi-fi-test-may-2019",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/W2yQ4Df7OAOm7FWJVoEE2SzpBdg=/0x140:3600x2025/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/16233508/997234642.jpg.jpg",
-            "publishedAt": "2019-05-09T19:41:38Z",
-            "content": "Delta Air Lines will test offering free Wi-Fi on 55 domestic daily flights this month. The tests will start on May 13th and last for two weeks, and they will allow users to do just about everything except stream video free of charge. \r\nDelta calls the tests t… [+1993 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Foxbusiness.com"
-            },
-            "author": "FOXBusiness",
-            "title": "Roku CEO: Shift to streaming is accelerating Fox Business",
-            "description": "Roku CEO Anthony Wood addresses the increasing competition in streaming.",
-            "url": "https://www.foxbusiness.com/business-leaders/roku-ceo-shift-streaming-accelerating",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2018/02/0/0/roku-logo.jpg?ve=1&tl=1",
-            "publishedAt": "2019-05-09T19:07:40Z",
-            "content": "Roku CEO Anthony Wood on the increasing competition in streaming.\r\nCord-cutting continues to accelerate as companies such as Disney and AT&amp;T prepare to launch streaming services. And Wall Street investors are betting that Roku will benefit from the trend.… [+1241 chars]"
-        }
-    ]
+  "posts": [
+    { "id": 1, "title": "This is cool" },
+    { "id": 2, "title": "I like it" },
+    { "id": 3, "title": "Neat" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
